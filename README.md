@@ -1,0 +1,2 @@
+# MapReduceFilter
+Filter pattern
